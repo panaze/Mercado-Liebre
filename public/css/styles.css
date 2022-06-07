@@ -68,16 +68,23 @@ header ul li a {
 header .form .input {
   background-color: #fff;
   border: 1px solid #000;
+  font-size: 10px;
   outline: none;
   color: #666;
-  padding: 2px;
+  padding: 10px;
+  border-color: white;
+  border-radius: 4px 4px 0 0;
+  width: 30%;
 }
 
 header .form .submit {
   background-color: #fff;
-  border: 1px solid #000;
+  border-color: white;
+  border-radius: 4px;
   color: #666;
-  width: 10%;
+  width: 7%;
+  height: 23%;
+  margin-left: 2px;
 }
 
 div.burger-menu {
